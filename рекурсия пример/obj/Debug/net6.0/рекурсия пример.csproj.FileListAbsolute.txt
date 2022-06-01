@@ -1,0 +1,15 @@
+C:\Users\mob19\OneDrive\Рабочий стол\Лекция4 Рекурсия и двумерные массивы\рекурсия пример\bin\Debug\net6.0\рекурсия пример.exe
+C:\Users\mob19\OneDrive\Рабочий стол\Лекция4 Рекурсия и двумерные массивы\рекурсия пример\bin\Debug\net6.0\рекурсия пример.deps.json
+C:\Users\mob19\OneDrive\Рабочий стол\Лекция4 Рекурсия и двумерные массивы\рекурсия пример\bin\Debug\net6.0\рекурсия пример.runtimeconfig.json
+C:\Users\mob19\OneDrive\Рабочий стол\Лекция4 Рекурсия и двумерные массивы\рекурсия пример\bin\Debug\net6.0\рекурсия пример.dll
+C:\Users\mob19\OneDrive\Рабочий стол\Лекция4 Рекурсия и двумерные массивы\рекурсия пример\bin\Debug\net6.0\рекурсия пример.pdb
+C:\Users\mob19\OneDrive\Рабочий стол\Лекция4 Рекурсия и двумерные массивы\рекурсия пример\obj\Debug\net6.0\рекурсия пример.csproj.AssemblyReference.cache
+C:\Users\mob19\OneDrive\Рабочий стол\Лекция4 Рекурсия и двумерные массивы\рекурсия пример\obj\Debug\net6.0\рекурсия пример.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mob19\OneDrive\Рабочий стол\Лекция4 Рекурсия и двумерные массивы\рекурсия пример\obj\Debug\net6.0\рекурсия пример.AssemblyInfoInputs.cache
+C:\Users\mob19\OneDrive\Рабочий стол\Лекция4 Рекурсия и двумерные массивы\рекурсия пример\obj\Debug\net6.0\рекурсия пример.AssemblyInfo.cs
+C:\Users\mob19\OneDrive\Рабочий стол\Лекция4 Рекурсия и двумерные массивы\рекурсия пример\obj\Debug\net6.0\рекурсия пример.csproj.CoreCompileInputs.cache
+C:\Users\mob19\OneDrive\Рабочий стол\Лекция4 Рекурсия и двумерные массивы\рекурсия пример\obj\Debug\net6.0\рекурсия пример.dll
+C:\Users\mob19\OneDrive\Рабочий стол\Лекция4 Рекурсия и двумерные массивы\рекурсия пример\obj\Debug\net6.0\refint\рекурсия пример.dll
+C:\Users\mob19\OneDrive\Рабочий стол\Лекция4 Рекурсия и двумерные массивы\рекурсия пример\obj\Debug\net6.0\рекурсия пример.pdb
+C:\Users\mob19\OneDrive\Рабочий стол\Лекция4 Рекурсия и двумерные массивы\рекурсия пример\obj\Debug\net6.0\рекурсия пример.genruntimeconfig.cache
+C:\Users\mob19\OneDrive\Рабочий стол\Лекция4 Рекурсия и двумерные массивы\рекурсия пример\obj\Debug\net6.0\ref\рекурсия пример.dll
